@@ -1,0 +1,8 @@
+[
+  { "id": "w1", "name": "AK-47", "category": "Rifle", "damage": 36, "imageKey": "ak47", "description": "Powerful automatic rifle with high damage and recoil." },
+  { "id": "w2", "name": "M4A1-S", "category": "Rifle", "damage": 33, "imageKey": "m4a1", "description": "Accurate rifle with suppressor and controllable spray." },
+  { "id": "w3", "name": "AWP", "category": "Sniper", "damage": 115, "imageKey": "awp", "description": "Bolt-action sniper rifle capable of one-shot body kills." },
+  { "id": "w4", "name": "Desert Eagle", "category": "Pistol", "damage": 63, "imageKey": "deagle", "description": "High damage pistol with slow fire rate and strong recoil." },
+  { "id": "w5", "name": "P90", "category": "SMG", "damage": 26, "imageKey": "p90", "description": "High capacity SMG with low recoil and fast movement speed." },
+  { "id": "w6", "name": "Glock-18", "category": "Pistol", "damage": 28, "imageKey": "glock", "description": "Standard T-side pistol with burst-fire option." }
+]

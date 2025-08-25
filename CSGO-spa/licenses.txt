@@ -1,0 +1,8 @@
+images/hero.jpg – https://unsplash.com/photos/man-in-black-helmet-holding-rifle-Mu0ExSKTOBs – Unsplash License
+images/weapons/ak47.jpg – https://unsplash.com/photos/a-gun-on-a-white-surface-CiTVlh4c8K8 – Unsplash License
+images/weapons/awp.jpg – https://unsplash.com/photos/rules-of-third-photography-of-sniper-rifle-2q3RH6grop4 – Unsplash License
+images/weapons/m4a1.jpg – https://unsplash.com/photos/a-close-up-of-a-rifle-on-a-table-psYy1aA88UI – Unsplash License
+images/weapons/desert-eagle.jpg – https://unsplash.com/photos/a-close-up-of-a-gun-on-a-black-surface-MsdDbOUTiu4 – Unsplash License
+images/weapons/p90.jpg – https://unsplash.com/photos/black-semi-automatic-pistol-on-black-case-1h9CPN5WJ9c – Unsplash License
+images/weapons/glock18.jpg – https://unsplash.com/photos/black-leather-case-on-brown-and-black-woven-surface-xnK_o6OdTew – Unsplash License
+images/logos/csgo-logotype.png – https://fonts.google.com/icons?icon=pets – Google fonts
