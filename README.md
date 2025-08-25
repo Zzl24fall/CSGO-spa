@@ -1,4 +1,4 @@
-CS:GO Fan Hub
+#CS:GO Fan Hub
 
 CS:GO Fan Hub is a single-page web application for fans of Counter-Strike: Global Offensive. It serves as a centralized hub featuring game guides, a weapon encyclopedia, and a contact portal. The application provides a smooth user experience with dynamic content updates (no full page reloads) and theme toggling between light and dark modes. Built as the final project for a web design course, this app demonstrates modern front-end practices in React and responsive design.
 
